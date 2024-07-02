@@ -1,5 +1,6 @@
 # To-Do-List
 
-### <a href="https://jonasnavin.github.io/To-Do-List/" target="_blank" rel="noopener noreferrer">View Project</a>
+### [View Project](javascript:void(window.open('https://jonasnavin.github.io/To-Do-List/', '_blank')))
+
 
 
